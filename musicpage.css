@@ -7,7 +7,7 @@ body {
   background-color: #f5e0e5;
   position: relative;
   font-family: "Roboto", sans-serif;
-  background-image: url ("https://raw.githubusercontent.com/Lizaveta-sketch/-/refs/heads/main/vintage-newspaper-wallpaper-design-with-grungy-black-and-white-pattern-photo.jpg");
+  background-image: url("https://raw.githubusercontent.com/Lizaveta-sketch/-/refs/heads/main/vintage-newspaper-wallpaper-design-with-grungy-black-and-white-pattern-photo.jpg");
 }
 .player {
   position: absolute;
@@ -18,7 +18,7 @@ body {
   height: 530px;
   border-radius: 15px;
   box-shadow: 0 15px 20px 10px #8B4513;
-  background-image: url ("https://raw.githubusercontent.com/Lizaveta-sketch/-/refs/heads/main/165226320-multi-color-geometric-triangular-low-poly-background-style.jpg");
+  background-image: url("https://raw.githubusercontent.com/Lizaveta-sketch/-/refs/heads/main/165226320-multi-color-geometric-triangular-low-poly-background-style.jpg");
 }
 .player input[type=range] {
   -webkit-appearance: none !important;
