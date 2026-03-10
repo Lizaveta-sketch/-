@@ -79,7 +79,6 @@ body {
   box-shadow: 0 15px 20px 10px #8B4513;
  }
 .player .cover img {
-  image: url ("https://raw.githubusercontent.com/Lizaveta-sketch/-/refs/heads/main/bbnos.jpg");
   width: 100%;
   height: 100%;
   object-fit: cover;
