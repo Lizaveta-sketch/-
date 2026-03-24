@@ -252,10 +252,10 @@ div#bg-1-5{
 }  
 .bird1 {
 
-  animation: .bird1 5s infinite;
+  animation: bird1 5s infinite;
 
 }
-@keyframes .bird1 {
+@keyframes bird1 {
 
   0% {
 
@@ -272,10 +272,10 @@ div#bg-1-5{
 }
 .bird2 {
 
-  animation: .bird2 5s infinite;
+  animation: bird2 5s infinite;
 
 }
-@keyframes .bird2 {
+@keyframes bird2 {
 
   25% {
 
@@ -292,10 +292,10 @@ div#bg-1-5{
 }
 .bird3 {
 
-  animation: .bird3 5s infinite;
+  animation: bird3 5s infinite;
 
 }
-@keyframes .bird3 {
+@keyframes bird3 {
 
   0% {
 
