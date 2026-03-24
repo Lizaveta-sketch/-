@@ -70,9 +70,9 @@ div#bg-3-1{
 
 	background:url('https://raw.githubusercontent.com/Lizaveta-sketch/-/refs/heads/main/hawk.png');
 
-	width:529px;
+	width:536px;
 
-	height:757px;
+	height:536px;
 
 	top:-100px;
 
@@ -252,7 +252,7 @@ div#bg-1-5{
 }  
 .bird1 {
 
-  animation: bird1 5s infinite;
+  animation: .bird1 5s infinite;
 
 }
 @keyframes bird1 {
@@ -272,7 +272,7 @@ div#bg-1-5{
 }
 .bird2 {
 
-  animation: bird2 5s infinite;
+  animation: .bird2 5s infinite;
 
 }
 @keyframes bird2 {
@@ -292,7 +292,7 @@ div#bg-1-5{
 }
 .bird3 {
 
-  animation: bird3 5s infinite;
+  animation: .bird3 5s infinite;
 
 }
 @keyframes bird3 {
